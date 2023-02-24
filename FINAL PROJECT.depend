@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1641899959 source:c:\users\carnival\desktop\prog\final project\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
